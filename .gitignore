@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+boostbeastssl/build
+.vs/
 
 # Compiled Object files
 *.slo
